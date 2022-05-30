@@ -12,3 +12,7 @@
 [SQL](https://www.notion.so/SQL-fe0e9592b08b4db8be031a075b74380d)
 
 [Git](https://www.notion.so/Git-244cc949bcdd4af88f7cc3b695ceebd2)
+
+[WEB](https://www.notion.so/WEB-a251ec762a71476999c53d0a1e747b99)
+
+[GitHub - devfuturo/Notion](https://github.com/devfuturo/Notion)
